@@ -1,5 +1,5 @@
 ## Hi, I'm Jakub Morawa!👋
-I am a developer who is striving to improve their coding skills. I have worked on projects that include web development, JavaScript, Python, and data-driven tools. I want to create projects that show off data, simulations, and coding structures.
+I’m a developer constantly striving to improve my coding skills. I’ve worked on projects in web development, Java, Python, and data-driven tools, and I enjoy creating projects that highlight data visualization, simulations, and mathematical problem-solving. My goal is to build practical, interactive projects that both challenge me and showcase what I can do.
 
 ## Projects I've Worked On
 <ul>
@@ -11,3 +11,15 @@ I am a developer who is striving to improve their coding skills. I have worked o
   
   <li>🐶🐱 <b>Dog and Cat Pics:<br></b> A fun project that uses APIs to fetch random dog and cat images along with additional info.</li><br>
 </ul>
+
+## Languages
+JavaScript • Python • HTML • CSS • Java
+
+## 🛠️ Tools & Libraries 
+VS Code • Git & GitHub • Fuse.js • Node.js
+
+## 🚀 Currently exploring
+algorithms, simulations, and web development
+
+## 📫 Contact 
+jakubm1015@gmail.com
