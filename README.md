@@ -9,7 +9,9 @@ I’m a developer constantly striving to improve my coding skills. I’ve worked
 
 - 🌥️ **[Weather Station JM](https://github.com/JakubMorawa/WeatherStationJM)** An interactive website where users can click on a map to get weather analytics and location-based data.  
 
-- 🐶🐱 **[Dog and Cat Pics](https://github.com/JakubMorawa/Dog-and-Cat-Pics)** A fun project that uses APIs to fetch random dog and cat images along with additional info.  
+- 🐶🐱 **[Dog and Cat Pics](https://github.com/JakubMorawa/Dog-and-Cat-Pics)** A fun project that uses APIs to fetch random dog and cat images along with additional info.
+
+- 🏫 **[School Scrape Data](https://github.com/JakubMorawa/School-Scrape-Data)**  Python project that scrapes Illinois schools and makes stats visualization with scatter plots.
 
 ## Languages
 JavaScript • Python • HTML • CSS • Java
