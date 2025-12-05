@@ -28,7 +28,7 @@ I’m a developer constantly striving to improve my coding skills. I’ve worked
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## 🚀 Currently exploring
-algorithms, simulations, and web development
+Algorithms - Simulations - Data Science - Web Development
 
 ## 📫 Contact 
 jakubm1015@gmail.com
