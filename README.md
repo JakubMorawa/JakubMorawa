@@ -14,11 +14,11 @@ I’m a developer constantly striving to improve my coding skills. I’ve worked
 - 🏫 **[School Scrape Data](https://github.com/JakubMorawa/School-Scrape-Data)**  Python project that scrapes Illinois schools and makes stats visualization with scatter plots.
 
 ## Languages
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ## 🛠️ Tools & Libraries 
 VS Code • Git & GitHub • Fuse.js • Node.js
