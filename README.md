@@ -1,7 +1,7 @@
 ## Hi, I'm Jakub Morawa!👋
 I’m a developer constantly striving to improve my programming skills. I’ve worked on projects in web development, Java, Python, and data-driven tools, and I enjoy creating projects that highlight data visualization, simulations, and mathematical problem-solving. My goal is to build practical, interactive projects that both challenge me and showcase what I can do.
 
-## Projects I've Worked On
+## Projects I am working on
 
 - 📈 **[Pendulum Sim](https://github.com/JakubMorawa/Java-Pendulum-Simulation)** A Java Swing application that simulates a pendulum and lets users adjust variables like length, gravity, and angle.  
 
@@ -28,7 +28,7 @@ I’m a developer constantly striving to improve my programming skills. I’ve w
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## 🚀 Currently exploring
-Algorithms - Simulations - Data Science - Web Development
+Simulations - Data Science - Web Development
 
 ## 📫 Contact 
 jakubm1015@gmail.com
