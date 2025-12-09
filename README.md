@@ -1,5 +1,5 @@
 ## Hi, I'm Jakub Morawa!👋
-I’m a developer constantly striving to improve my coding skills. I’ve worked on projects in web development, Java, Python, and data-driven tools, and I enjoy creating projects that highlight data visualization, simulations, and mathematical problem-solving. My goal is to build practical, interactive projects that both challenge me and showcase what I can do.
+I’m a developer constantly striving to improve my programming skills. I’ve worked on projects in web development, Java, Python, and data-driven tools, and I enjoy creating projects that highlight data visualization, simulations, and mathematical problem-solving. My goal is to build practical, interactive projects that both challenge me and showcase what I can do.
 
 ## Projects I've Worked On
 
