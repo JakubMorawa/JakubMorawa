@@ -3,15 +3,15 @@ I’m a developer constantly striving to improve my programming skills. I’ve w
 
 ## Projects I am working on
 
-- 📈 **[Pendulum Sim](https://github.com/JakubMorawa/Java-Pendulum-Simulation)** A Java Swing application that simulates a pendulum and lets users adjust variables like length, gravity, and angle.  
+ **[Pendulum Sim](https://github.com/JakubMorawa/Java-Pendulum-Simulation)** A Java Swing application that simulates a pendulum and lets users adjust variables like length, gravity, and angle.  
 
-- 🌍 **[Country Data](https://github.com/JakubMorawa/Country-Data)** A searchable country-information tool that displays stats and details pulled from a structured JSON dataset.  
+ **[Country Data](https://github.com/JakubMorawa/Country-Data)** A searchable country-information tool that displays stats and details pulled from a structured JSON dataset.  
 
-- 🌥️ **[Weather Station JM](https://github.com/JakubMorawa/WeatherStationJM)** An interactive website where users can click on a map to get weather analytics and location-based data.  
+ **[Weather Station JM](https://github.com/JakubMorawa/WeatherStationJM)** An interactive website where users can click on a map to get weather analytics and location-based data.  
 
-- 🐶🐱 **[Dog and Cat Pics](https://github.com/JakubMorawa/Dog-and-Cat-Pics)** A fun project that uses APIs to fetch random dog and cat images along with additional info.
+**[Dog and Cat Pics](https://github.com/JakubMorawa/Dog-and-Cat-Pics)** A fun project that uses APIs to fetch random dog and cat images along with additional info.
 
-- 🏫 **[School Scrape Data](https://github.com/JakubMorawa/School-Scrape-Data)**  Python project that scrapes Illinois schools and makes stats visualization with scatter plots.
+ **[School Scrape Data](https://github.com/JakubMorawa/School-Scrape-Data)**  Python project that scrapes Illinois schools and makes stats visualization with scatter plots.
 
 ## Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
